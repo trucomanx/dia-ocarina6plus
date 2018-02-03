@@ -1,4 +1,4 @@
-# Dia-Shapes para tabs de ocarina de 6 agujeros
+# Dia-Shapes para tabs/partitura de ocarina de 6 agujeros
 
 ## Cria/compila os shapes
 Cria os arquivos *.shape e *.png. 
